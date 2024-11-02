@@ -94,8 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 GitHub: [amar-jondhalekar](https://github.com/amar-jondhalekar)  
 Email: amarjondhalekar221297@gmail.com
 ```
-
-### Notes:
-- Adjust the **Features** section to include any additional features you might want to highlight.
-- Make sure the **LICENSE** section corresponds to your actual license file if it exists.
-- Update your author section with any additional details you’d like to provide.
